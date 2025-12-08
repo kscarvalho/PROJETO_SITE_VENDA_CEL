@@ -111,3 +111,9 @@ header nav {
   color: #86868b;
   margin: 2rem;
 }
+
+#main-content .btn {
+  font-size: 1.1rem;
+  padding: 0.8rem 1.4rem;
+  align-self: center;
+}
