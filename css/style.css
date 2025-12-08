@@ -105,3 +105,9 @@ header nav {
   font-size: 1.1rem;
   line-height: 1.5rem; /*ALTURA DA LINHA*/
 }
+
+#main-content #price {
+  font-size: 1.3rem;
+  color: #86868b;
+  margin: 2rem;
+}
