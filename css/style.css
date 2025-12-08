@@ -92,3 +92,9 @@ header nav {
   margin: 1rem;
   font-size: 1.2rem;
 }
+
+#main-content #subtitle {
+  margin: 1rem;
+  font-size: 4rem;
+  font-weight: bold;
+}
