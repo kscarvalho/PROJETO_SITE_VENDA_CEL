@@ -87,3 +87,8 @@ header nav {
   flex-direction: column;
   justify-content: center;
 }
+
+#main-content #title {
+  margin: 1rem;
+  font-size: 1.2rem;
+}
