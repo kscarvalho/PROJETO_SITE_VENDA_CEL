@@ -9,3 +9,12 @@
 ul {
   list-style: none;
 }
+
+a {
+  text-decoration: none;
+}
+
+/* Navbar */
+header nav {
+  background-color: #333;
+}
