@@ -22,4 +22,9 @@ header nav {
 #navbar {
   display: flex;
   justify-content: space-around;
+  align-items: center;
+  font-size: 0.7rem;
+  padding: 0.1rem;
+  max-width: 1000px;
+  margin: 0 auto; /*CENTRALIZAR*/
 }
