@@ -18,3 +18,8 @@ a {
 header nav {
   background-color: #333;
 }
+
+#navbar {
+  display: flex;
+  justify-content: space-around;
+}
