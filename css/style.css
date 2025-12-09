@@ -152,3 +152,9 @@ header nav {
   border-radius: 50%;
   background-color: #333;
 }
+
+#image-picker li .description {
+  font-size: 0.7rem;
+  color: #1d1d1d;
+  margin-top: 0.6rem;
+}
