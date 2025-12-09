@@ -150,11 +150,30 @@ header nav {
   width: 2rem;
   height: 2rem;
   border-radius: 50%;
-  background-color: #333;
 }
 
 #image-picker li .description {
   font-size: 0.7rem;
   color: #1d1d1d;
   margin-top: 0.6rem;
+}
+
+#green .color {
+  background-color: #394c38;
+}
+
+#silver .color {
+  background-color: #f1f2ed;
+}
+
+#golden .color {
+  background-color: #fae7cf;
+}
+
+#grafite .color {
+  background-color: #54524f;
+}
+
+#blue .color {
+  background-color: #a7d1c9;
 }
