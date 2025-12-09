@@ -124,3 +124,24 @@ header nav {
   opacity: 1;
   transition: 0.5s;
 }
+
+#main-content #product-image.changing {
+  opacity: 0.5;
+}
+
+#image-picker {
+  margin-bottom: 500px;
+}
+
+#image-picker ul {
+  display: flex;
+  justify-content: center;
+}
+
+#image-picker li {
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+}
