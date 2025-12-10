@@ -212,6 +212,9 @@ header nav {
   body {
     width: 390px;
   }
+  #image-picker li {
+    margin: 10px;
+  }
 }
 
 @media (max-width: 1030px) {
