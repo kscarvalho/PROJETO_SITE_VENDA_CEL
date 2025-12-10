@@ -210,12 +210,12 @@ header nav {
 
 @media (max-width: 400px) {
   body {
-    width: 400px;
+    width: 390px;
   }
 }
 
 @media (max-width: 1030px) {
   #main-content #product-image {
-    width: 100%;
+    width: 90%;
   }
 }
