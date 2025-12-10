@@ -186,7 +186,7 @@ header nav {
 }
 
 /* Mobile */
-@media(max-width: 701px) {
+@media (max-width: 660px) {
   #navbar li {
     display: none;
   }
@@ -205,5 +205,17 @@ header nav {
   }
   #main-content #subtitle {
     font-size: 3rem;
+  }
+}
+
+@media (max-width: 400px) {
+  body {
+    width: 400px;
+  }
+}
+
+@media (max-width: 1030px) {
+  #main-content #product-image {
+    width: 100%;
   }
 }
