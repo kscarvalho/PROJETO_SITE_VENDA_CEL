@@ -51,8 +51,8 @@ Durante o desenvolvimento deste projeto, foram aplicados conceitos importantes c
 
 <h3>▶️ Como executar o projeto</h3>
 
-Clone o repositório:
-git clone https://github.com/seu-usuario/seu-repositorio.git
-Abra o arquivo:
-index.html
+<p>Clone o repositório:
+ git clone https://github.com/kscarvalho/IphoneProShowCase.git
+<p>Abra o arquivo:
+ https://kscarvalho.github.io/IphoneProShowCase/
 
